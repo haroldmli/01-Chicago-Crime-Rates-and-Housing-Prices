@@ -1,4 +1,7 @@
 # Analyzing Chicago Crime and Housing Data
+
+![alt tag](Loop_Crime_Rates.png)
+
 This is the first of a series of month-long projects I plan to work on to improve my data science skills. The first project I worked on involved exploring Chicago crime data as well as Trulia housing prices. I wanted to be able to delve deep into two projects and try to aggregate them together to create some meaningful analyses. In particular, I focused on answering three questions:
 
 1) Is there a strong relationship between crime rates and housing prices in Chicago at the neighborhood level?
